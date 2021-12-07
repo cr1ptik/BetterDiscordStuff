@@ -10,12 +10,12 @@ paste the contents of [customcss.css](customcss/customcss.css) into the customcs
 have fun :)
 
 
-#Plugin Info
+# Plugin Info
 AccountDetailsPlus - [Download](https://betterdiscord.app/Download?id=31)
 Lets you view popout, nickname and more from your account panel at the bottom.
 
-Demo
-Demo
+## Demo
+https://camo.githubusercontent.com/5e5e72180db1f35319388aef8e6d3fe65168fb6fd03b3c6824a7b8f9bc9a0256/68747470733a2f2f692e696d6775722e636f6d2f5a5068676f72722e676966
 
 ## Instructions
 Left click avatar or username for popout
