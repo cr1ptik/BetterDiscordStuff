@@ -27,9 +27,11 @@ Enable/Disable status picker on right click
 Swap between displaying nickname or username
 Enable/Disable swapping username and nickname on hover
 
-## In App Notifications - [Download](http://qwertxd.github.io/?pluginName=InAppNotifications&src=uk)
+## In App Notifications - [Download](https://betterdiscord.app/Download?id=173)
 Displays notifications such as new messages, friends added in Discord.
 ### Preview
 ![preview](https://camo.githubusercontent.com/60722f61ecd05ae41cf62344a17676034112f42c997fb1bc22a6c9f3198d5a72/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832343938353639373034373933373032342f3834313730383332313238373330373237342f756e6b6e6f776e2e706e67)
 
-## AssignBadges - [Download](
+## AssignBadges - [Download](https://betterdiscord.app/Download?id=336)
+Allows you to locally assign badges to users through the user context menu.
+Made with  by [BDBuilder](https://github.com/Kyza/bdbuilder)
