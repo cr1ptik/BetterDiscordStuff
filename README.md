@@ -31,3 +31,5 @@ Enable/Disable swapping username and nickname on hover
 Displays notifications such as new messages, friends added in Discord.
 ### Preview
 ![preview](https://camo.githubusercontent.com/60722f61ecd05ae41cf62344a17676034112f42c997fb1bc22a6c9f3198d5a72/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832343938353639373034373933373032342f3834313730383332313238373330373237342f756e6b6e6f776e2e706e67)
+
+## AssignBadges - [Download](
