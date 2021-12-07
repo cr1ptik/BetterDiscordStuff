@@ -11,7 +11,7 @@ have fun :)
 
 
 # Plugin Info
-AccountDetailsPlus - [Download](https://betterdiscord.app/Download?id=31)
+##AccountDetailsPlus - [Download](https://betterdiscord.app/Download?id=31)
 Lets you view popout, nickname and more from your account panel at the bottom.
 
 ## Demo
@@ -26,3 +26,7 @@ Enable/Disable popout for avatar/username
 Enable/Disable status picker on right click
 Swap between displaying nickname or username
 Enable/Disable swapping username and nickname on hover
+
+## In App Notifications - [Download](http://qwertxd.github.io/?pluginName=InAppNotifications&src=uk)
+Displays notifications such as new messages, friends added in Discord.
+###
