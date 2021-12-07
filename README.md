@@ -11,7 +11,7 @@ have fun :)
 
 
 # Plugin Info
-##AccountDetailsPlus - [Download](https://betterdiscord.app/Download?id=31)
+## AccountDetailsPlus - [Download](https://betterdiscord.app/Download?id=31)
 Lets you view popout, nickname and more from your account panel at the bottom.
 
 ## Demo
