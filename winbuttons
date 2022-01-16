@@ -1,0 +1,54 @@
+.winButtonMinMax-3RsPUg[aria-label="Minimize"]:hover {
+    transform: rotate(45deg)!important;
+    color: rgb(0, 255, 0)!important;
+    background-color:rgb(45, 53, 53)!important;
+    border-radius: 30px!important;
+}
+.winButtonMinMax-3RsPUg[aria-label="Maximize"]:hover {
+    transform: rotate(45deg)!important;
+    color: orange!important;
+    background-color:rgb(45, 53, 53)!important;
+    border-radius: 30px!important;
+}
+.winButton-3UMjdg:nth-child(2):hover {
+    transform: rotate(45deg)!important;
+    color: rgb(255, 0, 0)!important;
+    background-color:rgb(45, 53, 53)!important;
+    border-radius: 30px!important;
+}
+.winButtonMinMax-3RsPUg[aria-label="Minimize"] {
+ background-color:rgb(45, 53, 53)!important;
+ height: 19px!important;
+ right: 14px!important;
+ margin-top: -5px!important;
+ border-radius: 30px!important;
+}
+.winButtonMinMax-3RsPUg[aria-label="Maximize"] {
+ background-color:rgb(45, 53, 53)!important;
+ height: 19px!important;
+ right: 8px!important;
+ margin-top: -5px!important;
+ border-radius: 30px!important;
+}
+.titleBar-1it3bQ .winButtonClose-3Q8ZH5 {
+ background-color:rgb(45, 53, 53)!important;
+ height: 19px!important;
+ right: 2px!important;
+ margin-top: -5px!important;
+ border-radius: 30px!important;
+}
+.winButtonMinMax-3RsPUg[aria-label="Minimize"]{
+    color:green!important;
+}
+.winButtonMinMax-3RsPUg[aria-label="Maximize"]{
+    color:rgb(173, 113, 0)!important;
+}
+.winButton-3UMjdg {
+    height: 9px!important;
+    width: 20px!important;
+    top: 2px!important;
+    right: 2px!important;
+    padding: 0 0px!important;
+    color: #ff5b5b!important;
+    transition: all 200ms ease-out!important;
+}
